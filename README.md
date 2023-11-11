@@ -1,4 +1,2 @@
-# Coursera_CPP
+# Coursera C++
 The art of modern C ++ development
-
-Искусство разработки на современном C++
